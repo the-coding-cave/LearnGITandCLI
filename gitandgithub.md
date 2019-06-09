@@ -2,6 +2,12 @@
 
 ### Git and Github
 
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html)
+
+* [GIT - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+
+* [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
 
 * [Git CheatSheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
@@ -16,7 +22,6 @@
 
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
-* [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 * [GIT - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 
