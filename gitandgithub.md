@@ -4,7 +4,7 @@
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html)
 
-* [GIT - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+* [Git Tutorial - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 
 * [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
