@@ -6,6 +6,10 @@
 
 * [What is SVN?](https://www.perforce.com/blog/vcs/what-svn)
 
+* [Git - Eli5](https://www.reddit.com/r/explainlikeimfive/comments/jknqe/eli5_version_control_systems_like_git/)
+
+* [Git - Eli5 - VCS](https://www.reddit.com/r/explainlikeimfive/comments/1701qi/eli5_what_a_version_control_system_is/)
+
 * [Git - VersionControl Workflow](https://buildazure.com/2018/02/21/introduction-to-git-version-control-workflow/)
 
 * [Git - Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)

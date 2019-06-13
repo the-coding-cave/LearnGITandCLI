@@ -8,6 +8,8 @@
 
 * [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
+* [Git Tutorial - LearnWebCode](https://www.youtube.com/watch?v=UFEby2zo-9E&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN&index=3)
+
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
 
 * [Git CheatSheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
