@@ -70,6 +70,10 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
       
       Your files will be commited 
 
+ 7. `$ touch.gitignore` you can use this command to create a .gitignore file. The .gitignore file can include the      files that you do not want to push to the remote repository. 
+ 8. 
+
+
     
 
 
