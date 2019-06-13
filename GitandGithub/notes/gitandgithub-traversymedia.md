@@ -43,3 +43,6 @@ _The next 3 commands have to do with remote repositories (github, bitbucket, and
 * $ git clone //clone a repository into a new director at another location
 
 
+Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to Git](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
+
+
