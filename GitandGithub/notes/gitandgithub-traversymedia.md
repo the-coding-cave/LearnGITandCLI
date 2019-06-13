@@ -45,4 +45,20 @@ _The next 3 commands have to do with remote repositories (github, bitbucket, and
 
 Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to Git](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
 
+### Git Work Flow - Starting a new project (locally)
+
+1. `mkdir <file>` create a new project directory/folder 
+2. `touch <file> `Create your files (html, css, js, node, python, etc) in your project directory. 
+3. `$ git init`Initialize your project folder as a git repository. 
+    * git init will create a hidden .git folder in your directory. Show hidden files will display the .git folder
+4. `$ git add <file>` Add your files to the staging area for initial commit (it tracks your files)
+    * `git add *.html` you can use this command to track all html files 
+    * `git add .` or `git add -A` will add every file 
+5. `$ git status` shows you the files in the staging area (ready to be committed)
+6. ` $ git commit -m` commits 
+    * Note that just `git commit` will open up the vim editor and ask you to enter a mandatory commit message for your changes. 
+qdafsbgr
+
+
+
 
