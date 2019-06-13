@@ -86,13 +86,12 @@ _pushing local repository to remote repository_
 
 ### Git Work Flow - Starting a new project (remote)
 
-1. On github.com
-   * Create a new repository 
-   * Initalize the respository with a README. 
-   * Clone or download (to clone: copy the given link)
-   * Navigate via terminal or bash to your project directory 
-   * Type `git clone` and paste the given link : `git clone https://github.com/developer/newproject.git`
-      * This will create a folder for your project with the existing files. 
+On github.com
+* Create a new repository 
+* Clone or download (to clone: copy the given link)
+* Navigate via terminal or bash to your project directory 
+* Type `git clone` and paste the given link : `git clone https://github.com/developer/newproject.git`
+    * This will create a folder for your project with the existing files. 
 
 ### Branching & Merging in Git/Github
 
