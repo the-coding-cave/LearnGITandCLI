@@ -55,9 +55,23 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
     * `git add *.html` you can use this command to track all html files 
     * `git add .` or `git add -A` will add every file 
 5. `$ git status` shows you the files in the staging area (ready to be committed)
-6. ` $ git commit -m` commits 
-    * Note that just `git commit` will open up the vim editor and ask you to enter a mandatory commit message for your changes. 
-qdafsbgr
+6. ` $ git commit -m` commits your file 
+    * Note that just `git commit` will open up your editor and ask you to enter a mandatory commit message for       your changes. For vim editor: press i for insert mode. scroll down to comment your message
+      
+      # 
+      #
+      #
+       my commit message
+      #
+      #
+      #
+    
+      To get out of the insert mode, press esc. Then type in :wq 
+      
+      Your files will be commited 
+
+    
+
 
 
 
