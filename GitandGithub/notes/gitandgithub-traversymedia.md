@@ -45,7 +45,7 @@ _The next 3 commands have to do with remote repositories (github, bitbucket, and
 
 Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to Git](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
 
-### Git Work Flow - Starting a new project (locally)
+### Git Work Flow - Starting a new project (local)
 
 1. `mkdir <file>` create a new project directory/folder 
 2. `touch <file> `Create your files (html, css, js, node, python, etc) in your project directory. 
@@ -84,7 +84,7 @@ _pushing local repository to remote repository_
          * `git push -u origin master` should push local repository to remote repository and be able to view all your files from your local repository on github 
 
 
-### Git Work Flow - Starting a new project (locally)
+### Git Work Flow - Starting a new project (remote)
 
 1. On github.com
    * Create a new repository 
