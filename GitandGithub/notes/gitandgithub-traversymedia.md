@@ -70,11 +70,31 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
       
       Your files will be commited 
 
- 7. `$ touch.gitignore` you can use this command to create a .gitignore file. The .gitignore file can include the      files that you do not want to push to the remote repository. 
-      * in the git ignore file, typing `*.txt` ...  `*.html` ... `*.<filetype>` will ignore the files specified
+ * `$ touch.gitignore` you can use this command to create a .gitignore file. The .gitignore file can include the      files that you do not want to push to the remote repository. 
+       * in the git ignore file, typing `*.txt` ...  `*.html` ... `*.<filetype>` will ignore the files specified
  
 
- _Branching & Merging in Git/Github_
+_pushing local repository to remote repository_
+8. On github.com
+    * Create a new repository 
+    * Since we have a local repository for the project, we do not check the option to initialize the respository      with a README. 
+    * Next, we push our project respository from the command line to the new remote repository by performing the     following commands. 
+         * `git remote add origin https://github.com/developer/myapp.git`
+         * `git remote` should display origin
+         * `git push -u origin master` should push local repository to remote repository and be able to view all your files from your local repository on github 
+
+
+### Git Work Flow - Starting a new project (locally)
+
+1. On github.com
+   * Create a new repository 
+   * Initalize the respository with a README. 
+   * Clone or download (to clone: copy the given link)
+   * Navigate via terminal or bash to your project directory 
+   * Type `git clone` and paste the given link : `git clone https://github.com/developer/newproject.git`
+      * This will create a folder for your project with the existing files. 
+
+### Branching & Merging in Git/Github
 
  Developer A has been asked to create a login feature. He performs the following commands in accordance with VCS. That is, he is not pushing his code directly to the master(main) branch. Instead he creates a new branch for the login feature, works on his code, gets the approval of his team, and then merges his code with the code on the main branch. He creates a branch called login, and works on the login feature on this branch. 
 
@@ -89,8 +109,6 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
  * ` $ git checkout master`  he switches back to the master branch. Both the changes to index file and the             login.html file are not in the directory on the master branch. This is because they were made in the login        branch. The developer needs to merge the login branch and the master branch for the code that he worked on to     show up in the master. 
  *  Still on the master. He types `$ git merge login` and enters a commit message to explain why the merge is         necessary. 
  *  The merge is successful. 
-
-
 
         
 
