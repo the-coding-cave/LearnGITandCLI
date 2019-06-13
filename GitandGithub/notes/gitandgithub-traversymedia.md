@@ -58,13 +58,13 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
 6. ` $ git commit -m` commits your file 
     * Note that just `git commit` will open up your editor and ask you to enter a mandatory commit message for       your changes. For vim editor: press i for insert mode. scroll down to comment your message
       
-      # 
-      #
-      #
+      `#`
+      `#`
+      `#`
        my commit message
-      #
-      #
-      #
+      `#`
+      `#`
+      `#`
     
       To get out of the insert mode, press esc. Then type in :wq 
       
