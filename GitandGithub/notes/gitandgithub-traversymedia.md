@@ -71,7 +71,25 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
       Your files will be commited 
 
  7. `$ touch.gitignore` you can use this command to create a .gitignore file. The .gitignore file can include the      files that you do not want to push to the remote repository. 
- 8. 
+      * in the git ignore file, typing `*.txt` ...  `*.html` ... `*.<filetype>` will ignore the files specified
+ 
+
+ _Branching & Merging in Git/Github_
+
+ Developer A has been asked to create a login feature. He performs the following commands in accordance with VCS. That is, he is not pushing his code directly to the master(main) branch. Instead he creates a new branch for the login feature, works on his code, gets the approval of his team, and then merges his code with the code on the main branch. He creates a branch called login, and works on the login feature on this branch. 
+
+
+ * ` $ git status ` lets him know that he is currently on the master branch
+ * ` git checkout login` he creates a branch called login
+ * ` touch login.html` he works on structure of the login page 
+ *  Since he can also access all the files on the master branch on the login branch, he decides to make a change 
+    in index.html to create a login button. 
+    
+
+        
+
+
+
 
 
     
