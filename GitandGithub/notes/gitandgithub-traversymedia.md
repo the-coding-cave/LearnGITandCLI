@@ -80,11 +80,17 @@ Also see: [Most Basic Git Commands with Examples – a Welcome Introduction to G
 
 
  * ` $ git status ` lets him know that he is currently on the master branch
- * ` git checkout login` he creates a branch called login
- * ` touch login.html` he works on structure of the login page 
+ * ` git checkout -b login` he creates a branch called login
+ * ` touch login.html` he works on the login page 
  *  Since he can also access all the files on the master branch on the login branch, he decides to make a change 
     in index.html to create a login button. 
-    
+ *  `$ git add . ` he adds the new file and changes to the index to the staging area. 
+ *  `$ git commit -m "worked on login form and login button for the front page (index file)` he commits his changes
+ * ` $ git checkout master`  he switches back to the master branch. Both the changes to index file and the             login.html file are not in the directory on the master branch. This is because they were made in the login        branch. The developer needs to merge the login branch and the master branch for the code that he worked on to     show up in the master. 
+ *  Still on the master. He types `$ git merge login` and enters a commit message to explain why the merge is         necessary. 
+ *  The merge is successful. 
+
+
 
         
 
