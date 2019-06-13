@@ -30,6 +30,12 @@ _Snapshot_:
 ### Basic Commands 
 
 * $ git init //Initialize Local Git Repository
-* $ git add `<file>`
+* $ git add `<file>` // Add File(s) to the Index (staging area_. Allows you to "stage" files before commiting. 
+* $ git status //Check Status of Working Tree. Allows you to see which files you have in the staging area. 
+* $ git commit //Commit changes in Index. Takes everything in the index (staging area) and adds it to the local repository. 
+_The next 3 commands have to do with remote repositories (github, bitbucket, and so on)
+* $ git push //pushes your local repository to a remote repository 
+* $ git pull //pull latest updates from a remote repository 
+* $ git clone //clone a repository into a new director at another location
 
 

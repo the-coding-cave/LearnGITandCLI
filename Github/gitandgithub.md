@@ -9,6 +9,8 @@
 * [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
     * [Notes - Traversy Media - Git & Github ](./notes/gitandgithub-traversymedia.md)
 
+* [Intro to Git & Git commands](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
+
 * [Git Tutorial - LearnWebCode](https://www.youtube.com/watch?v=UFEby2zo-9E&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN&index=3)
 
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
