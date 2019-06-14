@@ -5,17 +5,18 @@
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html)
 
 * [Git Tutorial - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+    * [Notes - thenewboston - Git & Github ](../notes/git_tutorial-thenewboston.md)
 
 * [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-    * [Notes - Traversy Media - Git & Github ](../notes/gitandgithub-traversymedia.md)
+    * [Notes - Traversy Media - Git Tutorila ](../notes/gitandgithub-traversymedia.md)
 
-* [Intro to Git & Git commands](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
+* [Intro to Git & Git commands - rubygarage](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
 
 * [Git Tutorial - LearnWebCode](https://www.youtube.com/watch?v=UFEby2zo-9E&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN&index=3)
 
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
 
-* [Git CheatSheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+* [Git CheatSheet - trainingkit](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 * [Pro Git Book](https://git-scm.com/book/en/v2)
 
@@ -27,8 +28,6 @@
 
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
-
-* [GIT - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 
 * [Github & Git for Poets - The Coding Train](https://www.youtube.com/watch?v=BCQHnlnPusY)
 
