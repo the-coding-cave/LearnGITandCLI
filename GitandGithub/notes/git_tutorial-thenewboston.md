@@ -101,7 +101,28 @@ We use `git diff --staged` this compares the files in the staging area with the 
  But you can move a file to a folder. 
  `git mv <file> <folder>`
 
- ### Working with an Actual Website 
+ ### Working with an Actual Website - given a folder to download
+
+ `git init` only iniitializes an empty Git repository. If there are files in the folder, you need to add them for git to track. 
+
+ `git add . `
+
+ `git commit -m "initial commit ` adds to staging area OR `git commit -am "message"` adds everything from working copy and commits directly to repository. It's only helpful when you are modifying (simple edits), not deleting and adding new files, etc. 
+
+
+ ### Git checkout 
+
+ `git checkout -- <file>` checkout means take something (a file) from the repository and make it your working copy.
+
+ ### Unstage Files 
+ 
+
+
+
+
+ 
+
+
  
 
 
