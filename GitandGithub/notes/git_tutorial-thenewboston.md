@@ -72,6 +72,41 @@ _modified_: different than file in the repository
 ` $ git commit -m "message"` commit your changes (modifications)
 ` $ git status `  should now show nothing to commit, working directory clean. And `git diff` should show nothing     as well, because there are no differences. 
 
+### Comparing the Staging Area with the Repository
+
+`git diff ` only shows differences between the working copy and the respository. So if you added the files to the staging area, git diff will not display any differences. 
+
+So how do we compare the staging area to the repository? 
+
+We use `git diff --staged` this compares the files in the staging area with the repository. 
+
+### How to delete files 
+
+ `git rm <file>` removes/deletes the file. You also need to commit it, so it takes a snapshot of the point in time where you deleted the file. 
+
+ ### How to move and rename files 
+
+ __rename files__ 
+ When you rename, you essentially delete a file and add the exact same file with a new name. 
+
+ `git add <newfilename>`
+ `git rm <oldfilename>` 
+
+ `git status` now displays : ` renamed  <oldfilename> -> <newfilename> `
+
+ __move files__
+
+ In git moving a file is renaming it. So `git mv <oldfile> <newfile>` is an easier way to rename than the steps above. 
+
+ But you can move a file to a folder. 
+ `git mv <file> <folder>`
+
+ ### Working with an Actual Website 
+ 
+
+
+
+
 
 
   
