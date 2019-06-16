@@ -113,9 +113,17 @@ We use `git diff --staged` this compares the files in the staging area with the 
  ### Git checkout 
 
  `git checkout -- <file>` checkout means take something (a file) from the repository and make it your working copy.
+  
+  [Tutorial on Git Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 
  ### Unstage Files 
+
+ If you accidentally added files to the staging area (and you are not ready to commit them, you can still remove the file from the staging area back to the working copy by typing `git reset HEAD <file>`. The git reset HEAD command removes the specified file from the staging area and brings it back down to the working copy. 
+
+ ### Getting Old Versions of your project from the Repository 
+
  
+
 
 
 
