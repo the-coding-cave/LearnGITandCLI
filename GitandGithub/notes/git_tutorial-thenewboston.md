@@ -122,7 +122,30 @@ We use `git diff --staged` this compares the files in the staging area with the 
 
  ### Getting Old Versions of your project from the Repository 
 
+ Sometimes you might need to go back to an older version of your code, perhaps the newer version of your code has some bugs in it. Say v3 has some bugs in the code.
+
+  Ex: first commit > second commit > _third commit_
+  
+   * We never want to delete commits in git because they are snapshots of your project at the time, and we might want to revisit the code later on. So instead of deleting the third commit, we can get a copy of the second commit and revert back to it. 
+
+     first commit > second commit > third commit > second commit 
+
+     The steps are: 
+
+     command:  `$ git log` 
+     result (log): _commit v2_ 
+                  _Author: Developer < developer@email.com > Date: 2019_
+                  _This is my second commit_
+                   _commit v1_
+                  _Author: Developer < developer@email.com> Date:2019_ 
+
+     command: `$ git checkout v2 -- <file>`
+              _enter_ 
+
+
  ### Github
+ * [Git Tutorial 17 ](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+
 
  ### Pushing to a Github Repository
 
