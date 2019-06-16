@@ -12,9 +12,17 @@
 
 * [Intro to Git & Git commands - rubygarage](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
 
+* [Git Cheatsheet - atlassian ](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
 * [Git Tutorial - LearnWebCode](https://www.youtube.com/watch?v=UFEby2zo-9E&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN&index=3)
 
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
+
+* [ What is head in git](https://stackoverflow.com/questions/2304087/what-is-head-in-git)
+
+* [ Head in git ](https://www.youtube.com/watch?v=ZaI1co-rt9I)
+
+* [Intro to Git - Scott Chacon](https://www.youtube.com/watch?feature=player_detailpage&v=ZDR433b0HJY#t=2791s)
 
 * [Git CheatSheet - trainingkit](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 

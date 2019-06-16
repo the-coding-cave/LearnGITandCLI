@@ -4,6 +4,8 @@
 
 * [Version Control Lecture - SoftwareCarpentryLecture](https://www.youtube.com/watch?v=gY2JwRfin1M&list=PL3657A5820B1C4397)
 
+* [Git - Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
 * [What is SVN?](https://www.perforce.com/blog/vcs/what-svn)
 
 * [Git - Eli5](https://www.reddit.com/r/explainlikeimfive/comments/jknqe/eli5_version_control_systems_like_git/)
