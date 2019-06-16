@@ -122,7 +122,21 @@ We use `git diff --staged` this compares the files in the staging area with the 
 
  ### Getting Old Versions of your project from the Repository 
 
- 
+ ### Github
+
+ ### Pushing to a Github Repository
+
+ ### gitignore and Github Desktop
+
+ ### Commiting Changes to Github
+
+ ### Branches
+
+ ### Github Watch Star and Fork
+
+ ### Github Issues and Labels
+
+ ### Github Wiki
 
 
 
