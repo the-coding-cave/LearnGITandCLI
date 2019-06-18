@@ -146,20 +146,37 @@ We use `git diff --staged` this compares the files in the staging area with the 
  ### Github
  * [Git Tutorial 17 ](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 
-
  ### Pushing to a Github Repository
 
- ### gitignore and Github Desktop
+ ### gitignore and Github Desktops
 
  ### Commiting Changes to Github
 
  ### Branches
+ When add features to our app, we don't always need to work in the main (master copy/masterbranch) branch. We can always switch branches to work on a feature, then merge both codes at a later date (when the feature is completed,and the code has been reviewed). 
 
  ### Github Watch Star and Fork
 
  ### Github Issues and Labels
+ Issue: Team Todo List with tasks for each developer 
+        - Developer A assigned homepage 
+        - Developer B assigned login and signup page 
+        - Developer C assigned contact page 
+
+ We also use labels to indicate what type of issue. Types of issue: bugs (urgent), enhancements (cool ideas to add to the site usually once the bugs are fixed). You can also custom labels for specific issues (new label).
+ 
+  You can also reassign issues or assign multiple developers to an issue. 
+ 
+ Issues that are active (currently being worked on) are open, and those that are completed are closed.
 
  ### Github Wiki
+ You can create github wikis to provide more information about your project. Exs: documentation, meet the team, about the project, installation guides, and so on 
+
+ ### Github Organization and Teams
+
+ Organizations on githubs are usually for large projects or company. You can create private repositories, add/invite members, manage access/roles, etc. 
+
+ 
 
 
 
