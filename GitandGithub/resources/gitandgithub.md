@@ -14,6 +14,8 @@
 
 * [Git Cheatsheet - atlassian ](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
+* [Learn Git with BitBucket CLoud - atlassian ](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+
 * [Git Tutorial - LearnWebCode](https://www.youtube.com/watch?v=UFEby2zo-9E&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN&index=3)
 
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
