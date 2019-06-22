@@ -1,6 +1,7 @@
 
 
 ## Git Tutorial 
+
 ##### By thenewboston 
 
 ### Git Help 
@@ -176,7 +177,7 @@ We use `git diff --staged` this compares the files in the staging area with the 
 
  Organizations on githubs are usually for large projects or company. You can create private repositories, add/invite members, manage access/roles, etc. 
 
- 
+
 
 
 
