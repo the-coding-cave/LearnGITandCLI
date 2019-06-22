@@ -22,8 +22,7 @@ In Git, the repository is a hidden folder named ".git" in the root directory of 
                          [The Working Tree, Staging Area (or Index), and the Local Repo](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
      It goes, working tree--> staging area (index) --> local repository. 
     
-     Working Directory → `git add` → Staging Area →  `git commit` →
-     →   Local repository →  `git push origin master` →   Remote Repository 
+     Working Directory → `git add` → Staging Area →  `git commit` → Local repository →  `git push origin master` →  Remote Repository 
                       
 
 5. _Commit_ : A commit is a wrapper for a specific set of changes. A commit message helps the developer and other developers to understand the intention behind the code changes. Every commit (set of changes) creates a new, different version of your project. Therefore, every commit also marks a specific version. A commit is a snapsht of your complete project at that certain point in time. The commit knows exactly how all of your files and directories looked and can therefore be used, e.g., to restore the project to that certain state. 
