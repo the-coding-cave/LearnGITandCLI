@@ -23,19 +23,14 @@ In Git, the repository is a hidden folder named ".git" in the root directory of 
      It goes, working tree--> staging area (index) --> local repository. 
     
      Working Directory 
-
           ↓
       `git add`    
-          ↓
-         
+          ↓      
      Staging Area 
-       
          ↓
      `git commit`
          ↓
-   
      Local repository 
-
          ↓
      `git push origin master`
          ↓
