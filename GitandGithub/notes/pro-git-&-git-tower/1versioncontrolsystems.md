@@ -2,9 +2,12 @@
 
 # Pro Git Book & Git Tower Tutorial 
 
-Sources: [Pro Git Book](https://git-scm.com/book/en/v2)
-        [Git Tower - Learn Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
-        [Git - Learn Version Control](https://www.amazon.com/Git-step-step-Ultimate-beginners-ebook/dp/B0769JLP9C)
+Sources: 
+[Pro Git Book](https://git-scm.com/book/en/v2)
+ 
+[Git Tower - Learn Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+  
+[Git - Learn Version Control](https://www.amazon.com/Git-step-step-Ultimate-beginners-ebook/dp/B0769JLP9C)
 
 ### Version Control Systems (VCS)
 
@@ -32,7 +35,9 @@ Version control is a system that records changes to a file or set of files over 
  __About Centralized Version Control Systems (CVCSs)__
 
  [Decentralized/Distributed vs Centralized VCS - Link 1](https://homes.cs.washington.edu/~mernst/advice/version-control.html#Distributed_and_centralized_version_control)
+
  [Distrubuted vs Centralized VCS - Link 2](https://scmquest.com/centralized-vs-distributed-version-control-systems/)
+ 
  [Distributed vs Centralized VCS -Link 3](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 
  _Examples of CVCS: CVS, Subversion, Perforce_
