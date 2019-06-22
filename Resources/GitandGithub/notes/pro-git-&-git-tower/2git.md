@@ -24,6 +24,18 @@ __Advantages of Git__
  * Implicit Backup 
  * Secure 
  * For small teams, there is no need for powerful hardware (central server). Deverlopers only interact with the server when they need to push and pull changes. But as the team size grows, the hardware limitations of the server can be a performance bottleneck. 
+
+
+ __Getting Help__
+
+ * `$ git help <verb>`: ex: `$ git help config`
+
+ * `$ git <verb> --help` or `$ git <verb> --h` : ex: `$ git config --help`
+ 
+ * `$ man git-<verb>`
+
+ * In-person help : #git or #github channel on the Freenode IRC server, https://freenode.net/
+
    
 
 
