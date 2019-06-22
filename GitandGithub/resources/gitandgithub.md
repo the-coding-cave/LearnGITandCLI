@@ -2,7 +2,18 @@
 
 ### Git and Github
 
+
+* [Pro Git Book](https://git-scm.com/book/en/v2)
+
+* [Git References](https://git-scm.com/docs)
+
+* [learn Git - git-tower](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html)
+
+* [Git Cheatsheet - atlassian ](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+ * [Git tutorial - basic git commands - atlassian](https://www.atlassian.com/git/tutorials/svn-to-git-prepping-your-team-migration#basic-git-commands)
 
 * [Git Tutorial - TheNewBoston](https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
     * [Notes - thenewboston - Git & Github ](../notes/git_tutorial-thenewboston.md)
@@ -11,8 +22,6 @@
     * [Notes - Traversy Media - Git Tutorial ](../notes/gitandgithub-traversymedia.md)
 
 * [Intro to Git & Git commands - rubygarage](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
-
-* [Git Cheatsheet - atlassian ](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 * [Learn Git with BitBucket CLoud - atlassian ](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
@@ -29,10 +38,6 @@
 * [Intro to Git - Scott Chacon](https://www.youtube.com/watch?feature=player_detailpage&v=ZDR433b0HJY#t=2791s)
 
 * [Git CheatSheet - trainingkit](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-
-* [Pro Git Book](https://git-scm.com/book/en/v2)
-
-* [Git References](https://git-scm.com/docs)
 
 * [Git Pocket Guide: A Working Introduction Volume. By Richard E. Silverman](https://www.amazon.com/Git-Pocket-Guide-Working-Introduction/dp/1449325866)
 
