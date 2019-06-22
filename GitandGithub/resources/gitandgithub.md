@@ -8,7 +8,7 @@
     * [Notes - thenewboston - Git & Github ](../notes/git_tutorial-thenewboston.md)
 
 * [Git & Github - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-    * [Notes - Traversy Media - Git Tutorila ](../notes/gitandgithub-traversymedia.md)
+    * [Notes - Traversy Media - Git Tutorial ](../notes/gitandgithub-traversymedia.md)
 
 * [Intro to Git & Git commands - rubygarage](https://rubygarage.org/blog/most-basic-git-commands-with-examples)
 
@@ -19,6 +19,8 @@
 * [Git Tutorial - LearnWebCode](https://www.youtube.com/watch?v=UFEby2zo-9E&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN&index=3)
 
 * [dargaCode Resources  - Important Workflow Items](https://github.com/dargaCode/WebDevStudyResources#the-command-line)
+
+* [git-guide](rogerdudler.github.io/git-guide/)
 
 * [ What is head in git](https://stackoverflow.com/questions/2304087/what-is-head-in-git)
 
