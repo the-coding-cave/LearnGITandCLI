@@ -36,12 +36,12 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
 
    The command `git add <file>` will add specific file and `git add .` will add all files. 
 
-  [Source](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
+   [Source](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
 
-  _The Local Repository_ : is everything in your .git directory. These are all of your checkpoints or commits. It is the area that saves everything. The git command `git commit` takes all the changes in the staging area, wraps them together and puts them in your local repository. To see what is in your local repo (files within your git repo that it's tracking), type the command `git ls-tree --full-tree -r HEAD`. 
- You can also see all of the previous checkpoints by typing: `git log`. To view a specific commit : `git show   #commit#`. 
+    _The Local Repository_ : is everything in your .git directory. These are all of your checkpoints or commits. It is the area that saves everything. The git command `git commit` takes all the changes in the staging area, wraps them together and puts them in your local repository. To see what is in your local repo (files within your git repo that it's tracking), type the command `git ls-tree --full-tree -r HEAD`. 
+    You can also see all of the previous checkpoints by typing: `git log`. To view a specific commit : `git show   #commit#`. 
 
-  [Source](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
+   [Source](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
 
 
 5. __Commit__: A commit is a wrapper for a specific set of changes. A commit message helps the developer and other developers to understand the intention behind the code changes. Every commit (set of changes) creates a new, different version of your project. Therefore, every commit also marks a specific version. A commit is a snapsht of your complete project at that certain point in time. The commit knows exactly how all of your files and directories looked and can therefore be used, e.g., to restore the project to that certain state. 
