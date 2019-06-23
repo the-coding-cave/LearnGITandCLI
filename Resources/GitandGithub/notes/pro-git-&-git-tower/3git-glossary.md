@@ -13,12 +13,12 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
 
 2. __Remote Repository__: A "remote" repository is typically located on a remote server on the interner or in your local network. No actual working files are associated with a remote repository: it has no working directory but it exclusively consists of the ".git" repository folder. Teams use remote repositories to share and exchange data: they serve as a common base where everyone can publish the changes made in their local repo as well as recieve changes from their teammates. 
 
-3. __Local Repository (Repo)__ : A "local" repository resides on your local computer, as a ".git" filder inside your project's root folder. This is your working copy of the entire (main) repository, you are the only person that can work with this repository. 
+3. __Local Repository (Repo)__ : A "local" repository resides on your local computer, as a ".git" folder inside your project's root folder. This is your working copy of the entire (main) repository, you are the only person that can work with this repository. 
 
    * Personal Project: You can initialize a folder as a new git project or turn an existing one into a git project. 
    * Organization/Team Project: Every developer can clone a copy of the main directory (hosted on a git server/manager) to their personal computer and work on their part of the code. Their local copy (working copy) is their private workplace. Developers can make changes in their local repo (private workplace) and then commit their changes to the main (remote) repository. 
 
-4. __Working directory__:  " The working directory is a single checkout of one version of the project. These files   are pulled our of the compressed database in the Git directory and placed on disk for your to use or modify."      (ProGitBook)
+4. __Working directory__:  " The working directory is a single checkout of one version of the project. These files   are pulled out of the compressed database in the Git directory and placed on disk for your to use or modify."      (ProGitBook)
 
    [The Three States](../4gitbasics.md). 
 
@@ -53,6 +53,8 @@ You can also specify other files you want to ignore:
    * all files with a certain name: `filename.ext` 
    * all files of certain type : `*.ext`
    * files in a certain folder: `path/to/folder/*`
+
+
 
 
 
