@@ -11,16 +11,17 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
 1. __Getting a Git Repository__ 
  
      * You typically obtain a Git repository in one of two ways: 
+       
          _a._ You can take a local directory (empty or with existing files) that is currently not under version control, and turn it into a Git repository to start controlling it with Git
-        
-           * `git init` creates a new subdirectory named .git that contains all of your necessary repository files (a Git repository skeleton). At this point, nothing in your project is tracked yet (Git Internals will provide more info on what files are in the .git directory that is created when you perform `git init`). However if the repo was cloned then all the files are tracked and unmodified until you start making changes. 
           
-           * If your local directory contains existing files that you want to start version controlling (as opposed to an empty directory), you can start tracking those files by doing an initial commit: 
+      * `git init` creates a new subdirectory named .git that contains all of your necessary repository files (a Git repository skeleton). At this point, nothing in your project is tracked yet (Git Internals will provide more info on what files are in the .git directory that is created when you perform `git init`). However if the repo was cloned then all the files are tracked and unmodified until you start making changes. 
+          
+      * If your local directory contains existing files that you want to start version controlling (as opposed to an empty directory), you can start tracking those files by doing an initial commit: 
             (1) ` git add <file>` or `git add . `, ` git add LICENSE` (2) `git commit -m 'initial project version`. 
 
          _b._ You can clone an existing Git repo from elsewhere with `git clone <url>`. 
 
-           * This creates a directory with the name of the existing repo and initializes a .git dir inside it, pulls down all the data for that repository and checks out a working copy of the latest version. If you go into the directory that was created, you will see the project files that are ready to be worked on or used. 
+          * This creates a directory with the name of the existing repo and initializes a .git dir inside it, pulls down all the data for that repository and checks out a working copy of the latest version. If you go into the directory that was created, you will see the project files that are ready to be worked on or used. 
         
          In either case, you end up with a Git repo on your local machine, ready for work. 
 
