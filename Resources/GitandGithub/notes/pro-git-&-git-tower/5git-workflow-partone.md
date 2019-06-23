@@ -41,13 +41,11 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
      * __To ignore a specific file or specific files:__
 
 
-     * __To view exact changes, run the `git diff` command.__
+     * __To view exact changes, run the git diff command.__:  This command lets you know exactly what you changed, not just which files were changed. You can use it to answer two Qs: What have you changed but not yet staged? And what have you staged that you are about to commit. While git status answers those questions very generally by listing file names, git diff shows you the exact lines added and removed -- the patch, as it were. 
 
-           * This command lets you know exactly what you changed, not just which files were changed. You can use it to answer two Qs: What have you changed but not yet staged? And what have you staged that you are about to commit. While git status answers those questions very generally by listing file names, git diff shows you the exact lines added and removed -- the patch, as it were. 
+         * git diff compares what is in your working directory with that is in your staging area. 
 
-              * git diff compares what is in your working directory with that is in your staging area. 
-
-              * But to see what you've staged that will go into your next commit, run `git diff --staged` or `git diff --cached` (--staged and --cached and synonyms). They compare your staged changes to your last commit. 
+         * But to see what you've staged that will go into your next commit, run `git diff --staged` or `git diff --cached` (--staged and --cached and synonyms). They compare your staged changes to your last commit. 
 
      * __Commiting your changes__
 
@@ -97,11 +95,7 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
 
      Below are a few basic tools for undoing changes that you've made. Be careful, because you can't always undo some of these undos. You can lose some work if you do it wrong. 
 
-       * __Redoing commits__ : One of the common undos take place when you commit too early and possibly forget to add some files, or you mess up your ommit message. To redo that commit: (1) make the additional changes you forgot, (2) stage them and commit again using the --amend option. Which is : `$ git commit --amend`. 
-
-        If you've made no changes since your last commit (for instance, you run this command immediately after your previous commit), then your snapshot will look exactly, the same and all you will change is your commit message. 
-
-        The same commit-message editor will fire up with the message of your previous commit, you can then edit the message (it will overwrite your previous commit)
+       * __Redoing commits__ : One of the common undos take place when you commit too early and possibly forget to add some files, or you mess up your ommit message. To redo that commit: (1) make the additional changes you forgot, (2) stage them and commit again using the --amend option. Which is : `$ git commit --amend`.   If you've made no changes since your last commit (for instance, you run this command immediately after your previous commit), then your snapshot will look exactly, the same and all you will change is your commit message.  The same commit-message editor will fire up with the message of your previous commit, you can then edit the message (it will overwrite your previous commit)
 
         Ex of the command sequence: 
 
