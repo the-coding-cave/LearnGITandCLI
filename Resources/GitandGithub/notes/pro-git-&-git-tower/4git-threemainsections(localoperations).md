@@ -6,12 +6,14 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
         [Git - Learn Version Control](https://www.amazon.com/Git-step-step-Ultimate-beginners-ebook/dp/B0769JLP9C)
 
 
-### The Three States 
+### The Three States & Main Sections
 Git has three main states that your files can reside in: _committed_, _modified_, and _staged_: 
 
    * _Committed_ means that your data is safely stored in your local database. 
    * _Modified_ means that your have changed the file but have not commited it to your database yet. 
    * _Staged_ means that you have marked a modiefied file in its current version to go into your next commit snapshot (commit stage). 
+
+
 
 This leads us to the main sections of a Git project: the Git directory, the working tree, and the staging area. 
 
@@ -31,13 +33,16 @@ This leads us to the main sections of a Git project: the Git directory, the work
 
 
 
-   * Basic Git Workflow (simple): 
+
+ __Basic Git Workflow__ 
+
+ * (simple): 
        1. __coding in your chosen editor__ You modify files in your working tree (directory)
        2. __`git add <file>`__ You selectively stage _just_ those changes you want to be part of your next commit, which adds only those changes to the staging area. 
        3. __`git commit -m "commit message"`__ You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory. 
 
 
-   * Basic Git Workflow (more steps/commands):     
+ * (more steps/commands):     
       1. Initilize a git repo
          * `cd` to folder. `git init`: Initialize a new repository for an existing project/folder on your computer that is not yet under version control. 
          * `git clone [URL]`: Clone (download/copy) using a provided URL an existing git repository on a remote server (on the internet or your local network). 
