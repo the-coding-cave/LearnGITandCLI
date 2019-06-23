@@ -95,7 +95,7 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
 
      Below are a few basic tools for undoing changes that you've made. Be careful, because you can't always undo some of these undos. You can lose some work if you do it wrong. 
 
-       * __Redoing commits__ : One of the common undos take place when you commit too early and possibly forget to add some files, or you mess up your ommit message. To redo that commit: (1) make the additional changes you forgot, (2) stage them and commit again using the --amend option. Which is : `$ git commit --amend`.   If you've made no changes since your last commit (for instance, you run this command immediately after your previous commit), then your snapshot will look exactly, the same and all you will change is your commit message.  The same commit-message editor will fire up with the message of your previous commit, you can then edit the message (it will overwrite your previous commit)
+       * __Redoing commits__ : One of the common undos take place when you commit too early and possibly forget to add some files, or you mess up your commit message. To redo that commit: (1) make the additional changes you forgot, (2) stage them and commit again using the --amend option. Which is : `$ git commit --amend`.   If you've made no changes since your last commit (for instance, you run this command immediately after your previous commit), then your snapshot will look exactly, the same and all you will change is your commit message.  The same commit-message editor will fire up with the message of your previous commit, you can then edit the message (it will overwrite your previous commit)
 
         Ex of the command sequence: 
 

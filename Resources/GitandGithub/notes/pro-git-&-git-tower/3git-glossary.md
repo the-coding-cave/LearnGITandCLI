@@ -46,7 +46,16 @@ Source: [Pro Git Book](https://git-scm.com/book/en/v2)
 
 5. __Commit__: A commit is a wrapper for a specific set of changes. A commit message helps the developer and other developers to understand the intention behind the code changes. Every commit (set of changes) creates a new, different version of your project. Therefore, every commit also marks a specific version. A commit is a snapsht of your complete project at that certain point in time. The commit knows exactly how all of your files and directories looked and can therefore be used, e.g., to restore the project to that certain state. 
 
-6. __Ignoring Files__: The list of files to ignore is kept in a simple file called ".gitignore" in the root folder of your project. It is highly recommended to define this list at the start of your project -before maiing your first commit. Because once they are commit, you will have to jump through some hoops to get them out of version control. If you are on a mac, make sure your ".gitignore" file in your project root folder contains at least: .DS_Store 
+6. __Commit Hash__: Every commit item consists (amongst other things) of the following metadata:
+
+                    > Commit Hash
+                    > Author Name and Email
+                    > Date
+                    > Commit Message
+
+ Each commit has a unique identifier: a 40-character checksum called the "commit hash". Since the first 7 characters of the hash are enough for it to be unique, reffering to a commit using a shortened version is very common. 
+
+7. __Ignoring Files__: The list of files to ignore is kept in a simple file called ".gitignore" in the root folder of your project. It is highly recommended to define this list at the start of your project -before maiing your first commit. Because once they are commit, you will have to jump through some hoops to get them out of version control. If you are on a mac, make sure your ".gitignore" file in your project root folder contains at least: .DS_Store 
 
 You can also specify other files you want to ignore: 
    * one specific file: `path/to/file.ext` 
